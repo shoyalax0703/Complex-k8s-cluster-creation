@@ -2,7 +2,7 @@
 
 Step 1:- Clone the git repo using command
 ```
-git clone https://github.com/kmitsolution/k8s.git
+git clone https://github.com/shoyalax0703/Complex-k8s-cluster-creation.git
 ```
 Step 2:- Open Git Repo and Go to k8s/K8s-Vagrant/ on command terminal
 
