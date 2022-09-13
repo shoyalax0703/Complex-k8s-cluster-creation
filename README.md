@@ -37,4 +37,7 @@ export KUBECONFIG=$HOME/.kube/config
 ```
 kubectl get nodes
 ```
-Completed!!!
+Example output: 
+<img width="1344" alt="Screen Shot 2022-09-13 at 12 32 35" src="https://user-images.githubusercontent.com/66551005/189801583-7ab83eb5-4ff6-46b2-9654-50c978d36adc.png">
+
+Completed now you have one master node and 2 worker nodes !!!
