@@ -4,8 +4,10 @@ Step 1:- Clone the git repo using command
 ```
 git clone https://github.com/shoyalax0703/Complex-k8s-cluster-creation.git
 ```
-Step 2:- Open Git Repo and Go to k8s/K8s-Vagrant/ on command terminal
-
+Step 2:- Navigate to the git repo
+```
+cd Complex-k8s-cluster-creation
+```
 Step 3:- Install some vagrant plugins by running below command
 ```
 vagrant plugin install vagrant-vbguest
@@ -40,4 +42,4 @@ kubectl get nodes
 Example output: 
 <img width="1344" alt="Screen Shot 2022-09-13 at 12 32 35" src="https://user-images.githubusercontent.com/66551005/189801583-7ab83eb5-4ff6-46b2-9654-50c978d36adc.png">
 
-Completed now you have one master node and 2 worker nodes !!!
+### Completed now you have one master node and 2 worker nodes !!!
